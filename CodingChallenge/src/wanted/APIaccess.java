@@ -66,7 +66,7 @@ public class APIaccess {
 					Random randomGetCr = new Random();
 					int randomCriminal = randomGetCr.nextInt(arrayItem.length() + 1);
 
-					item = arrayItem.getJSONObject(randomCriminal - 1);
+					item = arrayItem.getJSONObject(randomCriminal);
 					// Das JSONArray für den Musghot
 					arrayImage = item.getJSONArray("images");
 				}

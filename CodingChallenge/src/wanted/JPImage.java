@@ -2,7 +2,6 @@ package wanted;
 
 //Importe
 import java.awt.image.BufferedImage;
-import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
