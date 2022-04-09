@@ -1,4 +1,4 @@
-# Challenge  
+# Coding Challenge Wanted - Version 1 
 
 # Der Code bezieht sich auf folgende Coding Challenge:
 [wanted exercise.pdf](https://github.com/Daerhard/Challenge/files/8239763/wanted.exercise.pdf)
